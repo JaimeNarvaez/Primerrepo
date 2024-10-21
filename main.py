@@ -4,5 +4,6 @@ meme_dict = {
             }
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
 
-#Esto es un cambio
+
+#ESte es un cambio hecho por Ian
 
